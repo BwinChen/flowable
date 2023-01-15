@@ -2,3 +2,5 @@
 /.mvn/
 /mvnw
 /mvnw.cmd
+/target/
+/flowable.iml
